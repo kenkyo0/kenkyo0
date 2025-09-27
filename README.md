@@ -1,20 +1,10 @@
-I’m *@ShizeNick*.
-I like vim, Linux and everything which is open-source.
+I’m *@kenky0*.
+I like Cyber-Security especially pentesting, secure coding in low level languages and OSINT.
 I'm studying digital forensics and CyberSec.
-I like coding in C and other Low Level Languages.
 
-*languages (machine)*:
-
- _good skills in:_
-  - java
-  - lua
+ _At the moment working with:_
   - c
-
- _currently learning better:_
+  - lua
   - python
-  - tex
-
-*languages (human)*:
-  - english (floatend)
-  - german (native)
+  - java
 
