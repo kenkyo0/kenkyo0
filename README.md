@@ -6,7 +6,6 @@ I'm studying digital forensics and CyberSec.
   - c
   - lua
   - python
-  - java
   - nix
   - r
 
